@@ -1,7 +1,5 @@
 # COMP3005_bookstore
 Shannon Paul
-101178140
-COMP3005A
 
 instructions:
 
