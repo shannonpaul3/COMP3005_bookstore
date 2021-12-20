@@ -1,8 +1,7 @@
 # COMP3005_bookstore
 Shannon Paul
 
-instructions:
-
+SOME NOTES AND INSTRUCTIONS
 - run DDL.sql from SQl folder
 - run Functions.sql from SQL folder
 - all queries are inside Bookstore.java (JDBC)
