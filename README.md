@@ -2,9 +2,17 @@
 Shannon Paul
 
 SOME NOTES AND INSTRUCTIONS
-- run DDL.sql from SQl folder
-- run Functions.sql from SQL folder
-- all queries are inside Bookstore.java (JDBC)
-- note: database is named "bookstore" in java file
+
+Postgresql:
+- create database named 'bookstore'
+- run DDL.sql inside Query Tool (located in SQl folder)
+- run Functions.sql inside Query Tool (located in SQl folder)
+
+Run Bookstore.java:
 - make sure jar file is set as driver in IDE
-- run Bookstore.java (java Bookstore.java)
+- from command line:
+    java Bookstore.java
+
+Other:
+- all queries are inside Bookstore.java (JDBC)
+- database name and password can be changed inside Bookstore.java
