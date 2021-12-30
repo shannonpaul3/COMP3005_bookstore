@@ -16,3 +16,4 @@ Run Bookstore.java:
 Other:
 - all queries are inside Bookstore.java (JDBC)
 - database name and password can be changed inside Bookstore.java
+- ER diagram and Relation-Schema diagram located in Documents folder
